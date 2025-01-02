@@ -20,3 +20,6 @@ Contributions are warmly welcomed! If you’ve come across a great Golang resour
 - Tools
 - Portfolio Project Ideas
 - Where to find Golang Jobs
+
+# Golang courses
+[Go: The Complete Developer's Guide (Golang) by Stephen Grider](https://www.udemy.com/share/101XnU3@Fxq8pOaBdfn5-rAPRcwCFMtxQdUPR5pK93mviZLz1DnNTA0_pQlTY7Cig-KBHlSM/) 
