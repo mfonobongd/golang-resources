@@ -15,7 +15,6 @@ Contributions are warmly welcomed! If you’ve come across a great Golang resour
 - YouTube Videos
 - Communities to join
 - Some Golang Developers to follow
-- Community Management Newsletters
 - Software Development Books
 - Tools
 - Portfolio Project Ideas
